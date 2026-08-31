@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.imgur.com/m9dtCoP.png"/>
+  <img src="https://i.imgur.com/KNqfqwK.png"/>
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Ola y bienvenidx a mi github :><br><br>Por si no me conoces, soy Jvli y estoy estudiando programacion en la universidad, me gusta dibujar, escuchar musica, murder drones, azumanga daioh, meowscarada y pasar tiempo con mis amigos jsjjjss<br><br>Aqui subire algunos proyectos de la uni y algunas otras cosas que haga que puedan parecer interesantes</p>
+<p align="left">Ola y bienvenidx a mi github :><br><br>Por si no me conoces, soy Jvli y estoy estudiando programacion en la universidad, me gusta dibujar, escuchar musica, murder drones, azumanga daioh, meowscarada y pasar tiempo con mis amigos :><br><br>Aqui subire algunos proyectos de la uni y algunas otras cosas que haga que puedan parecer interesantes</p>
 
 ###
 
@@ -49,13 +49,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jvlizu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvlizu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvlizu&theme=radical&animation=sequence&name=Jvli" />
 </div>
 
 ###
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/jvlizu/jvlizu/output/snake.svg" alt="Snake animation" />
+<p align="left">uso github cada que me acuerdo y casi no subo nada xd<br></p>
+</div>
+
 
 ###
 
